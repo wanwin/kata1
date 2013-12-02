@@ -3,11 +3,6 @@ package kata1;
 import java.util.Date;
 
 public class Student {
-    private final static double DAYS_PER_YEAR=365.25;
-    private final static long HOURS_PER_YEAR=(long)(24*DAYS_PER_YEAR);
-    private final static long MINUTES_PER_YEAR=60*HOURS_PER_YEAR;
-    private final static long SECONDS_PER_YEAR=60*MINUTES_PER_YEAR;
-    private final static long MILLISECONDS_PER_YEAR=1000*SECONDS_PER_YEAR;
 
     private String name;
     private Date birthDate;
