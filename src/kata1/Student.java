@@ -1,9 +1,5 @@
 package kata1;
 
-// Ctrl+E borrar linea completa
-// Ctrl+Shift tecla abajo
-// Ctrl+W Cerrar pestaña
-
 import java.util.Date;
 
 public class Student {
